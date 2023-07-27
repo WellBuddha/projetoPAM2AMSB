@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AMS_OOP_Heranca3/1.0.0": {
+        "runtime": {
+          "AMS_OOP_Heranca3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AMS_OOP_Heranca3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
